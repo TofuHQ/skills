@@ -1,6 +1,6 @@
 ---
 name: enrich
-description: Find and enrich companies and people: get verified business emails, build prospect/lead lists, find decision-makers and contacts at a company, look up firmographics (headcount, funding, industry, location), or resolve a company by name. Use whenever the user wants to find companies or people by criteria, pull verified emails for outreach, enrich a list of accounts or contacts, build a GTM/ICP/TAM prospect list, or enrich a CSV. Runs as the @tofuhq/enrich CLI.
+description: "Find and enrich companies and people: get verified business emails, build prospect/lead lists, find decision-makers and contacts at a company, look up firmographics (headcount, funding, industry, location), or resolve a company by name. Use whenever the user wants to find companies or people by criteria, pull verified emails for outreach, enrich a list of accounts or contacts, build a GTM/ICP/TAM prospect list, or enrich a CSV. Runs as the @tofuhq/enrich CLI."
 ---
 
 > **Install:** `npm i -g @tofuhq/enrich@latest`, or run any command with `npx -y @tofuhq/enrich@latest <cmd>` (no install).
